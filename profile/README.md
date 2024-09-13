@@ -2,7 +2,6 @@
 
 > _Había una idea, de reunir a un grupo de computólogxs y ver si podían volverse algo más. Para que cuándo nos necesitaran, nosotrxs enseñariamos las cosas que otros no harían…_
 
-## ¿De dónde nace Sudo?
 No somos muchos computólogxs en Ciencias. Creemos que somos menos de 500 personas entre todas las generaciones y ese número tiende a bajar según pasa el tiempo.  Por lo mismo, 
 somos la carrera con menos alumnxs en la facultad. 
 
@@ -28,4 +27,4 @@ de [Filosofía de la Computación](https://sites.google.com/ciencias.unam.mx/phi
 Queremos intentar cerrar esa brecha. Y sumar a estas carencias cosas que quizá no sabiamos que teniamos. Como conocer más sobre la historia de lo que estudiamos, conocer
 sobre aplicaciónes más empíricas de lo que vemos en clase, de las posibilidades de investigación y de las consecuencias sociales de la tecnología, y todo lo demás relacionado.
 
-? _We're Sudo. We're Many. Expect Us._
+_We're Sudo. We're Many. Expect Us._
