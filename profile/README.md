@@ -27,4 +27,4 @@ de [Filosofía de la Computación](https://sites.google.com/ciencias.unam.mx/phi
 Queremos intentar cerrar esa brecha. Y sumar a estas carencias cosas que quizá no sabiamos que teniamos. Como conocer más sobre la historia de lo que estudiamos, conocer
 sobre aplicaciónes más empíricas de lo que vemos en clase, de las posibilidades de investigación y de las consecuencias sociales de la tecnología, y todo lo demás relacionado.
 
-_We're Sudo. We're Many. Expect Us._
+Bienvenidxs a Sudo.
